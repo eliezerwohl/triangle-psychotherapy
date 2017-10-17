@@ -24,14 +24,3 @@ function move_jquery_into_footer( $wp_scripts ) {
     $wp_scripts->add_data( 'jquery-core', 'group', 1 );
     $wp_scripts->add_data( 'jquery-migrate', 'group', 1 );
 }
-
-function get_ach($atts) {
-   $ach = include 'ach.php';
-}
-function get_ach_test($atts) {
-   $ach = include 'ach-test.php';
-}
-
-add_shortcode('ach', 'get_ach');
-add_shortcode('ach-test', 'get_ach_test');
-?>
