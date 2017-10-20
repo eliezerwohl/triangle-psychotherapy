@@ -3,4 +3,4 @@
 Backup of the code for Triangle Psychotherapies.
 
 Website:
-<a href="http://triangle-psychotherapy.com/">http://triangle-psychotherapy.com/</a>
+<a href="http://triangle-psychotherapy.com/">triangle-psychotherapy.com/</a>
